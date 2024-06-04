@@ -3,12 +3,12 @@
 MicroNest is a robust application demonstrating the power of .NET Core with a comprehensive microservices architecture. This project leverages multiple microservices to handle various aspects of product and order management, ensuring high scalability, maintainability, and flexibility.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
- <img width="1479" alt="1" src="https://github.com/karabasnejat/NetCoreAppWithMicroServices/assets/62561906/add364ce-a16a-4043-9fa8-50860f1730b1">
- <img width="1505" alt="2" src="https://github.com/karabasnejat/NetCoreAppWithMicroServices/assets/62561906/93f4be8c-6af8-442f-89d2-95d4a387cda1">
- <img width="1495" alt="3" src="https://github.com/karabasnejat/NetCoreAppWithMicroServices/assets/62561906/314945e9-39ba-4f63-ad7c-67ff3bb9a75f">
- <img width="1495" alt="4" src="https://github.com/karabasnejat/NetCoreAppWithMicroServices/assets/62561906/2ccd2723-7887-4c6a-b06d-ac01ffc2fbbc">
- <img width="1472" alt="5" src="https://github.com/karabasnejat/NetCoreAppWithMicroServices/assets/62561906/347344c6-3477-400d-8cb5-97c6ca6d2c9f">
- <img width="1495" alt="6" src="https://github.com/karabasnejat/NetCoreAppWithMicroServices/assets/62561906/61e6a4c8-c523-4568-983b-e31021216d49">
+ <img width="400" alt="1" src="https://github.com/karabasnejat/NetCoreAppWithMicroServices/assets/62561906/add364ce-a16a-4043-9fa8-50860f1730b1">
+ <img width="400" alt="2" src="https://github.com/karabasnejat/NetCoreAppWithMicroServices/assets/62561906/93f4be8c-6af8-442f-89d2-95d4a387cda1">
+ <img width="400" alt="3" src="https://github.com/karabasnejat/NetCoreAppWithMicroServices/assets/62561906/314945e9-39ba-4f63-ad7c-67ff3bb9a75f">
+ <img width="400" alt="4" src="https://github.com/karabasnejat/NetCoreAppWithMicroServices/assets/62561906/2ccd2723-7887-4c6a-b06d-ac01ffc2fbbc">
+ <img width="400" alt="5" src="https://github.com/karabasnejat/NetCoreAppWithMicroServices/assets/62561906/347344c6-3477-400d-8cb5-97c6ca6d2c9f">
+ <img width="400" alt="6" src="https://github.com/karabasnejat/NetCoreAppWithMicroServices/assets/62561906/61e6a4c8-c523-4568-983b-e31021216d49">
   
 </div>
 
